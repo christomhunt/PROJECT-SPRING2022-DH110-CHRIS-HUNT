@@ -45,7 +45,7 @@
 ### High-fidelity prototype 
 [...read more](https://github.com/masstah/ASSIGNMENT07-CHRIS-HUNT-DH110/blob/main/README.md)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FQOXXEFvprdodF0daWYRbqX%2FInterface-Design-System%3Fnode-id%3D103%253A225" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FQOXXEFvprdodF0daWYRbqX%2FInterface-Design-System%3Fnode-id%3D103%253A441%26scaling%3Dmin-zoom%26page-id%3D103%253A225" allowfullscreen></iframe>
 
 ### Pitch video 
 
