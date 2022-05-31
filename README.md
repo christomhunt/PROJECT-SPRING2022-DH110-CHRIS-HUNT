@@ -29,8 +29,8 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%201.png" width="550px"></td>
-    <td><img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%201%20Empathy%20Map.png" width="300px"></td>
+    <td><img src="https://github.com/masstah/ASSIGNMENT04-CHRIS-HUNT-DH110/blob/main/Dan%20Persona.png" width="550px"></td>
+    <td><img src="https://github.com/masstah/ASSIGNMENT04-CHRIS-HUNT-DH110/blob/main/Dan%20Empathy%20Map.png" width="300px"></td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
 ### Low-fidelity prototype 
 [...read more](https://github.com/masstah/ASSIGNMENT05-CHRIS-HUNT-DH110/blob/main/README.md)
 
-<img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/LoFiPrototype_Original.png" width="600px">
+<img src="https://github.com/masstah/ASSIGNMENT05-CHRIS-HUNT-DH110/blob/main/Wirefram_Wireflow.png" width="600px">
 
 ### High-fidelity prototype 
 [...read more](https://github.com/masstah/ASSIGNMENT07-CHRIS-HUNT-DH110/blob/main/README.md)
