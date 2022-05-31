@@ -1,6 +1,6 @@
 # PROJECT-DH110-CHRIS-HUNT
 
-# Redesigning the Goodreads App
+# Redesigning the Musictheory.net mobile website
 ## Chris Hunt
 
 ### Introduction
