@@ -12,8 +12,8 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/masstah/ASSIGNMENT01-CHRIS-HUNT-DH110/blob/main/Screen%20Shot%202022-04-05%20at%2010.01.41%20PM.png" width="700px"></td>
-    <td><img src="https://raw.githubusercontent.com/masstah/ASSIGNMENT01-CHRIS-HUNT-DH110/blob/main/IMG_1839.PNG" width="200px"></td>
+    <td><img src="https://raw.githubusercontent.com/masstah/ASSIGNMENT01-CHRIS-HUNT-DH110/main/Screen%20Shot%202022-04-05%20at%2010.01.41%20PM.png" width="700px"></td>
+    <td><img src="https://raw.githubusercontent.com/masstah/ASSIGNMENT01-CHRIS-HUNT-DH110/main/IMG_1839.PNG" width="200px"></td>
   </tr>
 </table>
 
@@ -29,8 +29,8 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/masstah/ASSIGNMENT04-CHRIS-HUNT-DH110/blob/main/Dan%20Persona.png" width="550px"></td>
-    <td><img src="https://raw.githubusercontent.com/masstah/ASSIGNMENT04-CHRIS-HUNT-DH110/blob/main/Dan%20Empathy%20Map.png" width="300px"></td>
+    <td><img src="https://raw.githubusercontent.com/masstah/ASSIGNMENT04-CHRIS-HUNT-DH110/main/Dan%20Persona.png" width="550px"></td>
+    <td><img src="https://raw.githubusercontent.com/masstah/ASSIGNMENT04-CHRIS-HUNT-DH110/main/Dan%20Empathy%20Map.png" width="300px"></td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
 ### Low-fidelity prototype 
 [...read more](https://github.com/masstah/ASSIGNMENT05-CHRIS-HUNT-DH110/blob/main/README.md)
 
-<img src="https://raw.githubusercontent.com/masstah/ASSIGNMENT05-CHRIS-HUNT-DH110/blob/main/Wirefram_Wireflow.png" width="600px">
+<img src="https://raw.githubusercontent.com/masstah/ASSIGNMENT05-CHRIS-HUNT-DH110/main/Wirefram_Wireflow.png" width="600px">
 
 ### High-fidelity prototype 
 [...read more](https://github.com/masstah/ASSIGNMENT07-CHRIS-HUNT-DH110/blob/main/README.md)
