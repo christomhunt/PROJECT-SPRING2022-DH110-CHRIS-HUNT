@@ -5,9 +5,14 @@
 
 ### Introduction
 
+Since COVID-19 Pandemic in 2020 temporarily closed schools in-person teaching a lot of them moved to remote or online versions of their prior only physical product. This new category has a high demand with 5.1 million users in 2020 with a project CAGR (compound annual growth rate) of 17.7% and with estimated market revenue of $130.7 million dollars in 2020 there's a ton of money up for grabs. I'm taking a look at music learning/theory websites and seeing how I can improve the overall user experience in order for people to have an easier time using the products. One will help with learning music theory to be applied to a multitude of music-related things from learning to play the piano to singing. I hope to show how we can improve the user's experience on this platforms in order to offer a great experience for each and every user.
+
 ### Clear Design Statement
 
-### Competitor Analysis: Heuristics Evaluation 
+The purpose of this project is to redesign the mobile website musictheory.net allowing one to easily navigate the lessons, keep track of their progress, and learn in different languages. The current musictheory.net mobile website does not do any of the prior mentioned stuff and by making changes to this website I want to help people who want to learn music theory enjoy their experience more as well as share that experience with those with different first languages than English. So, my question is: How might I change the musictheory.net website to make it more accessible for those who want to learn music regardless of their background?
+
+### Competitor Analysis: Heuristics Evaluation
+
 [...read more](https://github.com/masstah/ASSIGNMENT01-CHRIS-HUNT-DH110/blob/main/README.md)
 
 <table>
