@@ -1,5 +1,3 @@
-# PROJECT-DH110-CHRIS-HUNT
-
 # Redesigning the Musictheory.net mobile website
 ## Chris Hunt
 
