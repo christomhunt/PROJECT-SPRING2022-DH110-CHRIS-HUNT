@@ -9,7 +9,7 @@ Since COVID-19 Pandemic in 2020 temporarily closed schools in-person teaching a 
 
 ### Clear Design Statement
 
-The purpose of this project is to redesign the mobile website musictheory.net allowing one to easily navigate the lessons, keep track of their progress, and learn in different languages. The current musictheory.net mobile website does not do any of the prior mentioned stuff and by making changes to this website I want to help people who want to learn music theory enjoy their experience more as well as share that experience with those with different first languages than English. So, my question is: How might I change the musictheory.net website to make it more accessible for those who want to learn music regardless of their background?
+The purpose of this project is to redesign the mobile website musictheory.net allowing one to easily navigate the lessons, keep track of their progress, and learn in different languages. The current musictheory.net mobile website does not do any of the prior mentioned stuff and by making changes to this website I want to help people who want to learn music theory enjoy their experience more as well as share that experience with those with different first languages than English. So, my question is: How can I change the musictheory.net website to make it more accessible for those who want to learn music regardless of their background?
 
 ### Competitor Analysis: Heuristics Evaluation
 
