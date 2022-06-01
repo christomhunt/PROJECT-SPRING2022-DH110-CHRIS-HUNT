@@ -59,6 +59,7 @@ This is a high-fidelity prototype of the website musictheory.net (mobile version
 
 ### Pitch video 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1RLoWyGlY8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Conclusion: what did you learn throughout the process?
 
