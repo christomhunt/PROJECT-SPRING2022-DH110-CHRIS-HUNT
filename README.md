@@ -65,3 +65,7 @@ This is a high-fidelity prototype of the website musictheory.net (mobile version
 
 
 ### Conclusion: what did you learn throughout the process?
+
+In the end, I think I was successful in redesigning the musictheory.net mobile website to meet the needs of potential users like the two persons I created. The different iterations I went through during this project shows my progress in becoming more familiar with the UX process as a whole. I learned how important each stage is when it comes to doing a UX project whether it's a Design or Research-based one.
+
+I think my first target with the redesign of the musictheory.net mobile website was to completely overhaul and make something fresh. But after getting a little further along in the project I realized that will not be the case and I just need to focus on a couple of items to fix and dedicate my time to. If I was to do this again I would definitely dedicate some more time to testing so I can develop some more features because I think the features I made are very key to the success of the app in the future. I would also be able to conduct better usability tests because after each usability test I conducted for this project I felt as if there was room for improvement and I was sharpening my skills.
